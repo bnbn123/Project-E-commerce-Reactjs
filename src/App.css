@@ -1,0 +1,14 @@
+body {
+  font-family: 'Open Sans Condensed';
+  padding: 2rem 8rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+*{
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
