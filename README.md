@@ -1,6 +1,5 @@
-## Lesson-3
+#  REACTJS - SASS - ECOMMERCE WEBSITE PROJECT 
 
-Going through our folder structure for the project, breaking out homepage component into smaller components
 
 # How to fork and clone
 
