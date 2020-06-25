@@ -13,8 +13,8 @@
   z-index: 5;
 
   .cart-items {
-    height: 24rem;
-    display: flex;
+    height: 35rem;
+    //display: flex;
     flex-direction: row;
     overflow: scroll;
     &::-webkit-scrollbar {
